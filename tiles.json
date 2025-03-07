@@ -1,0 +1,1025 @@
+{
+    "nature_environment":{
+        "assets":{
+            "grass1":{
+                "spritesheet":"assets/nature/PNG/Tiles/Layer-0.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/0", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass2":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile2.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/1", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass3":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile3.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/2", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass4":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile4.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/3", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass5":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile5.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/4", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass6":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile6.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/5", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass7":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile7.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/6", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass8":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile8.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/7", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass9":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile9.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/8", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass10":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile10.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/9", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass11":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile11.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/10", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass12":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile12.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/11", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass13":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile13.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/12", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass14":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile14.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/13", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass15":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile15.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/14", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass16":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile16.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/15", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass17":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile17.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/16", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass18":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile18.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/17", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass19":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile19.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/18", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass20":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile20.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/19", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass21":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile21.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/20", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass22":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile22.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/21", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass23":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile23.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/22", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass24":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile24.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/23", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass25":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile25.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/24", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass26":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile26.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/25", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass27":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile27.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/26", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass28":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile28.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/27", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass29":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile29.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/28", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass30":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile30.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/29", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass31":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile31.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/30", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass32":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile32.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/31", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass33":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile33.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/32", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass34":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile34.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/33", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass35":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile35.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/34", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass36":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile36.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/35", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass37":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile37.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/36", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass38":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile38.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/37", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass39":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile39.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/38", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass40":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile40.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/39", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass41":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile41.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/40", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass42":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile42.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/41", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass43":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile43.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/42", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass44":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile44.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/43", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass45":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile45.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/44", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass46":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile46.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/45", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass47":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile47.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/46", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass48":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile48.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/47", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass49":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile49.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/48", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass50":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile50.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/49", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass51":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile51.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/50", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass52":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile52.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/51", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass53":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile53.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/52", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass54":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile54.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/53", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass55":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile55.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/54", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass56":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile56.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/55", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass57":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile57.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/56", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass58":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile58.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/57", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass59":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile59.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/58", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass60":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile60.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/59", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass61":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile61.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/60", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass62":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile62.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/61", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass63":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile63.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/62", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass64":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile64.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/63", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass65":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile65.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/64", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass66":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile66.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/65", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass67":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile67.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/66", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass68":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile68.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/67", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass69":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile69.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/68", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass70":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile70.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/69", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass71":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile71.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/70", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass72":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile72.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/71", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass73":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile73.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/72", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass74":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile74.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/73", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass75":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile75.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/74", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass76":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile76.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/75", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass77":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile77.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/76", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass78":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile78.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/77", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass79":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile79.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/78", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass80":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile80.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/79", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass81":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile81.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/80", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass82":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile82.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/81", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass83":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile83.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/82", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass84":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile84.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/83", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass85":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile85.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/84", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass86":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile86.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/85", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass87":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile87.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/86", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass88":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile88.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/87", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass89":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile89.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/88", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass90":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile90.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/89", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass91":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile91.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/90", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass92":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile92.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/91", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass93":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile93.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/92", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass94":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile94.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/93", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass95":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile95.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/94", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass96":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile96.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/95", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass97":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile97.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/96", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass98":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile98.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/97", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass99":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile99.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/98", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass100":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile100.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/99", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass101":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile101.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/100", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass102":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile102.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/101", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass103":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile103.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/102", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass104":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile104.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/103", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass105":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile105.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/104", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass106":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile106.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/105", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass107":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile107.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/106", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass108":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile108.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/107", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass109":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile109.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/108", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass110":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile110.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/109", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass111":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile111.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/110", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass112":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile112.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/111", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass113":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile113.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/112", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass114":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile114.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/113", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass115":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile115.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/114", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass116":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile116.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/115", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass117":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile117.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/116", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass118":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile118.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/117", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass119":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile119.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/118", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass120":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile120.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/119", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass121":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile121.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/120", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass122":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile122.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/121", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass123":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile123.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/122", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass124":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile124.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/123", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass125":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile125.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/124", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass126":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile126.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/125", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass127":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile127.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/126", "x":0, "y":0, "w":48, "h":48}
+                ]
+            },
+            "grass128":{
+                "spritesheet":"assets/nature/PNG/Tiles/tile128.png",
+                "sprites":[
+                        {"path":"environment/nature/grass/127", "x":0, "y":0, "w":48, "h":48}
+                ]
+            }
+
+        }
+    },
+    "nature_objects":{
+        "assets":{
+            "blue_bg_object1":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "blue_bg_object2":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object2", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "blue_bg_object3":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object3", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "blue_bg_object4":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object4.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object4", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "blue_bg_object5":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object5.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object5", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "blue_bg_object6":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object6.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object6", "x":0, "y":0, "w":128, "h":128}
+                ]
+            },
+            "blue_bg_object7":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object7.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object7", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "blue_bg_object8":{
+                "spritesheet":"assets/nature/PNG/Objects/blue_bg_object8.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/blue_bg_object8", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "fence":{
+                "spritesheet":"assets/nature/PNG/Objects/fence.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/fence", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "grass1":{
+                "spritesheet":"assets/nature/PNG/Objects/grass1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/grass1", "x":0, "y":0, "w":16, "h":16}
+                ]
+            },
+            "grass2":{
+                "spritesheet":"assets/nature/PNG/Objects/grass2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/grass2", "x":0, "y":0, "w":16, "h":16}
+                ]
+            },
+            "grass3":{
+                "spritesheet":"assets/nature/PNG/Objects/grass3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/grass3", "x":0, "y":0, "w":16, "h":16}
+                ]
+            },
+            "pink_bush1":{
+                "spritesheet":"assets/nature/PNG/Objects/pink_bush1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/pink_bush1", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "pink_bush2":{
+                "spritesheet":"assets/nature/PNG/Objects/pink_bush2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/pink_bush2", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "pointer":{
+                "spritesheet":"assets/nature/PNG/Objects/pointer.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/pointer", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rectangle1":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle1", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rectangle2":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle2", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rectangle3":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle3", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rectangle4":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle4.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle4", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rectangle5":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle5.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle5", "x":0, "y":0, "w":16, "h":16}
+                ]
+            },
+            "rectangle6":{
+                "spritesheet":"assets/nature/PNG/Objects/rectangle6.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rectangle6", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks1_1":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_1", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks1_2":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_2", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rocks1_3":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_3", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks1_4":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_4.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_4", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rocks1_5":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_5.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_5", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks1_6":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_6.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_6", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks1_7":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks1_7.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks1_7", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks2_1":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks2_1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks2_1", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks2_2":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks2_2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks2_2", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rocks2_3":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks2_3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks2_3", "x":0, "y":0, "w":32, "h":32}
+                ]
+            },
+            "rocks2_4":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks2_4.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks2_4", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "rocks2_5":{
+                "spritesheet":"assets/nature/PNG/Objects/rocks2_5.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/rocks2_5", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees1_1":{
+                "spritesheet":"assets/nature/PNG/Objects/trees1_1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees1_1", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees1_2":{
+                "spritesheet":"assets/nature/PNG/Objects/trees1_2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees1_2", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees1_3":{
+                "spritesheet":"assets/nature/PNG/Objects/trees1_3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees1_3", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees1_4":{
+                "spritesheet":"assets/nature/PNG/Objects/trees1_4.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees1_4", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees1_5":{
+                "spritesheet":"assets/nature/PNG/Objects/trees1_5.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees1_5", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees2_1":{
+                "spritesheet":"assets/nature/PNG/Objects/trees2_1.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees2_1", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees2_2":{
+                "spritesheet":"assets/nature/PNG/Objects/trees2_2.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees2_2", "x":0, "y":0, "w":64, "h":64}
+                ]
+            },
+            "trees2_3":{
+                "spritesheet":"assets/nature/PNG/Objects/trees2_3.png",
+                "sprites":[
+                    {"path":"environment/nature/objects/trees2_3", "x":0, "y":0, "w":64, "h":64}
+                ]
+            }
+        }
+    }
+}
