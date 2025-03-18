@@ -51,7 +51,7 @@ class SourceLoader:
                 all_paths.append(path+key)
         return all_paths
 
-    def get(self, path):
+    def get(self, path, if_none=None):
         directory = path.split("/")
         branch = self.sources
         for mkdir in directory:
@@ -59,4 +59,4 @@ class SourceLoader:
                 return list(self.get_all_paths(branch, "/".join(directory[:-1])+"/"))
             branch = branch.get(mkdir, None)
             if not branch: break
-        return branch
+        return branch if branch else if_none
